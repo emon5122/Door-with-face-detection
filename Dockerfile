@@ -1,4 +1,4 @@
-FROM python:3.10.3-slim-bullseye
+FROM python:3.13.6-slim-bullseye
 
 ENV PYTHONDONTWRITEBYTECODE=1
 
